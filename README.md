@@ -1,2 +1,2 @@
 # Building-aggregation
-he code is used for building aggregation.
+This code is used for building aggregation.
